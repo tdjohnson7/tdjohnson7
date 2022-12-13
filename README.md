@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on [a Age of Empires 4 Unit Counter Calculator App](https://github.com/tdjohnson7/100hoursProjectTest)
 
-- 🌱 I’m currently learning **react.js, data structure and algorithms, MVC, and how to write better code!**
+- 🌱 I’m currently learning: **react.js, data structure and algorithms, MVC, and how to write better code!**
 
 - 👨‍💻 All of my projects are available at [https://tynonjohnsonwebdeveloper.netlify.app/](https://tynonjohnsonwebdeveloper.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, node.js, express**
+- 💬 Ask me about: **HTML, CSS, JavaScript, node.js, express**
 
-- 📫 How to reach me **tynonjohnson@gmail.com**
+- 📫 How to reach me: **tynonjohnson@gmail.com**
 
 - 📄 Know about my experiences: <a href = "https://docs.google.com/document/d/e/2PACX-1vTWfiU8O_w3uTnNwDmW5hRxmELISzwFFpdd86bYc_lz-UJS_86efiHdQZGJEIFnXA/pub">Click here</a> for my resume
 
-- ⚡ Fun fact **I like running sometimes. I am starting to think about training for a marathon :)**
+- ⚡ Fun fact **I like running sometimes. I am starting to think about training for a marathon!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
