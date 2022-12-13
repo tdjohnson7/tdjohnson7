@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tynonjohnson@gmail.com**
 
-- 📄 Know about my experiences <a href = "https://docs.google.com/document/d/e/2PACX-1vTWfiU8O_w3uTnNwDmW5hRxmELISzwFFpdd86bYc_lz-UJS_86efiHdQZGJEIFnXA/pub">resume</a>
+- 📄 Know about my experiences: <a href = "https://docs.google.com/document/d/e/2PACX-1vTWfiU8O_w3uTnNwDmW5hRxmELISzwFFpdd86bYc_lz-UJS_86efiHdQZGJEIFnXA/pub">Click here for my resume</a>
 
 - ⚡ Fun fact **I like running sometimes. I am starting to think about training for a marathon :)**
 
