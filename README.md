@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tynonjohnsonwebdeveloper.netlify.app/](https://tynonjohnsonwebdeveloper.netlify.app/)
 
-- 💬 Ask me about: **HTML, CSS, JavaScript, node.js, express**
+- 💬 Ask me about: **HTML, CSS, JavaScript, node.js, express.js**
 
 - 📫 How to reach me: **tynonjohnson@gmail.com**
 
