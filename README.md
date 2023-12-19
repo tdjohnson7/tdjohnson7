@@ -9,7 +9,7 @@
 
 - 💬 Ask me about: **HTML, CSS, JavaScript, node.js, express.js**
 
-- 📫 How to reach me: **tynonjohnson@gmail.com**
+- 📫 How to reach me: Please message me on LinkedIn
 
 - 📄 Know about my experiences: <a href = "https://docs.google.com/document/d/e/2PACX-1vTWfiU8O_w3uTnNwDmW5hRxmELISzwFFpdd86bYc_lz-UJS_86efiHdQZGJEIFnXA/pub">Click here</a> for my resume
 
