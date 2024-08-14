@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tynon Johnson</h1>
-<h3 align="center">Full Stack Software Engineer (MERN)</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on [a Age of Empires 4 Unit Counter Calculator App](https://github.com/tdjohnson7/100hoursProjectTest)
 
@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [https://tynonjohnsonwebdeveloper.netlify.app/](https://tynonjohnsonwebdeveloper.netlify.app/)
 
-- 💬 Ask me about: **HTML, CSS, JavaScript, node.js, express.js**
+- 💬 Ask me about: **HTML, CSS, JavaScript, node.js, express.js, react.js, MongoDB**
 
 - 📫 How to reach me: Please message me on LinkedIn or Twitter
 
 - 📄 Know about my experiences: <a href = "https://docs.google.com/document/d/e/2PACX-1vTWfiU8O_w3uTnNwDmW5hRxmELISzwFFpdd86bYc_lz-UJS_86efiHdQZGJEIFnXA/pub">Click here</a> for my resume
 
-- ⚡ Fun fact **I like running sometimes. I am starting to think about training for a marathon!**
+- ⚡ Fun fact **I like playing soccer. I am currently playing in an adult league.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
