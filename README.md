@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tynon Johnson</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 🔭 I’m currently working on [a Age of Empires 4 Unit Counter Calculator App](https://github.com/tdjohnson7/100hoursProjectTest)
 
-- 🌱 I’m currently learning: **react.js, data structure and algorithms, MVC, and how to write better code!**
+- 🌱 I’m currently learning: **react.js, data structures and algorithms, MVC, and how to write better code(always)!**
 
 - 👨‍💻 All of my projects are available at [https://tynonjohnsonwebdeveloper.netlify.app/](https://tynonjohnsonwebdeveloper.netlify.app/)
 
-- 💬 Ask me about: **HTML, CSS, JavaScript, node.js, express.js, react.js, MongoDB**
+- 💬 Ask me about: **HTML, CSS, JavaScript, Node.js, Express.js, React.js, MongoDB**
 
 - 📫 How to reach me: Please message me on LinkedIn or Twitter
 
