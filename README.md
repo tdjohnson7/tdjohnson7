@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **Next.js, more data structures and algorithms, and how to write better code(always)!**
 
-- 👨‍💻 All of my projects are available at [https://tynonjohnsonwebdeveloper.netlify.app/](https://tynonjohnsonwebdeveloper.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://tynonjohnsonsoftwaredeveloper.netlify.app/](https://tynonjohnsonwebdeveloper.netlify.app/)
 
 - 💬 Ask me about: **HTML, CSS, JavaScript, Node.js, Express.js, React.js, MongoDB**
 
